@@ -1,0 +1,2 @@
+PODS_FOCUS_FABRIC_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Fabric"
+PODS_FOCUS_FABRIC_OTHER_LDFLAGS = -l"c++" -l"z" -framework "Fabric" -framework "UIKit"

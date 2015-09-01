@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Focus-ActionSheetPicker-3.0.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Focus-Crashlytics.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Focus-Fabric.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Focus.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0628B9475CC84E0682B3C162</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>856DD5C0FB3B5B16A73B8BB4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9F671F92F979DE3407F100D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B4DF91C94EAD3CF93653EBC7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

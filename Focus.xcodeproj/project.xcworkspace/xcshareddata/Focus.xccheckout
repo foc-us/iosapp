@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25508754-CE87-4894-93F8-A6CCCE069BF7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8FF6F40270FAF9CD0DB41198E3D82A9E2E9FAC8C</key>
+		<string>https://bitbucket.org/beardedhen/focus-ios.git</string>
+		<key>C3B2A40CDC459B031D029547BCB0026A075DD585</key>
+		<string>codebasehq.com:beardedhen/inputhound/ios-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Focus.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8FF6F40270FAF9CD0DB41198E3D82A9E2E9FAC8C</key>
+		<string>../..</string>
+		<key>C3B2A40CDC459B031D029547BCB0026A075DD585</key>
+		<string>../../../inputhound</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/beardedhen/focus-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8FF6F40270FAF9CD0DB41198E3D82A9E2E9FAC8C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8FF6F40270FAF9CD0DB41198E3D82A9E2E9FAC8C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Focus</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C3B2A40CDC459B031D029547BCB0026A075DD585</string>
+			<key>IDESourceControlWCCName</key>
+			<string>inputhound</string>
+		</dict>
+	</array>
+</dict>
+</plist>
